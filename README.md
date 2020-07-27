@@ -20,12 +20,12 @@ Go to the project directory inside the system and open the terminal.
 ### Example
 Input:
 ```bash
-./ipsweep.sh 192.168.1
+./ipsweep.sh 191.128.1
 ```
 Output:
 ```bash
-192.168.1.3
-192.168.1.1
+191.128.1.3
+191.128.1.1
 ```
 
 ## Contributing
