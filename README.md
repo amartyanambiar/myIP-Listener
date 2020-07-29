@@ -14,6 +14,11 @@ git clone https://github.com/amartyanambiar/myPort-Scanner.git
 
 ## Usage
 Go to the project directory inside the system and open the terminal.
+Make the ipsweep.sh file executable by:
+```bash
+chmod +x ipsweep.sh 
+```
+Then run it
 ```bash
 ./ipsweep.sh [ip_address(2 arg)]
 ```
