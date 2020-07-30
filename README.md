@@ -9,7 +9,7 @@ A Kali-Linux running machine is preffered.
 
 Clone the repository:
 ```bash
-git clone https://github.com/amartyanambiar/myPort-Scanner.git
+git clone https://github.com/amartyanambiar/myIP-Listener.git
 ```
 
 ## Usage
