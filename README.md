@@ -1,12 +1,9 @@
 # myIP-Listener
 ## Description
-BASH IP scanner. Made under the guidance of cybermentor. 
-
+BASH IP scanner
 It returns back the IP addresses of the devices connected to your local network.
 
 ## Requirements
-A Kali-Linux running machine is preffered. 
-
 Clone the repository:
 ```bash
 git clone https://github.com/amartyanambiar/myIP-Listener.git
@@ -35,6 +32,3 @@ Output:
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
